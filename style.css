@@ -220,24 +220,3 @@ main p {
     font-size: 20px;
     font-weight: bold;
 }
-
-/* Responsive adjustments */
-@media (max-width: 768px) {
-    #results-section {
-        padding: 20px;
-        margin-top: 30px;
-        width: 90%;
-    }
-
-    #ldu-calculation-steps {
-        font-size: 16px;
-        width: 90%;
-    }
-}
-
-@media (max-width: 480px) {
-    #ldu-calculation-steps {
-        font-size: 14px;
-        width: 95%;
-    }
-}
